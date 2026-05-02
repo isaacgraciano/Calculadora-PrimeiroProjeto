@@ -20,6 +20,6 @@ Projeto criado pra treinar lógica de programação, estrutura de funções e ma
 
 ## ▶️ Como rodar
 ```bash
-git clone https://github.com/isaac/nome-do-repo.git
-cd nome-do-repo
+git clone [https://github.com/isaacgraciano/Calculadora-PrimeiroProjeto]
+cd Calculadora-PrimeiroProjeto
 python calculadora.py
